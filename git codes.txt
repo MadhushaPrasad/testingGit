@@ -1,5 +1,10 @@
 git init------------ inisializeing git-------------
-git add .--------------add  
+git add .--------------add new create or edit-----
+
+---------what you need to tell them as a message------------------------------
+git commit -m " what you need to tell them as a message "
+
+git status ----------get update files as a notification on terminal-----------
 
 
 
@@ -7,7 +12,7 @@ git add .--------------add
 
 
 
----------------------------connect with github repository-------------------
+---------------------------connect with github repository-----------------------
 git remote add origin https://github.com/MadhushaPrasad/testingGit.git  
 
 git pull --------------how to get globle edit in to local--------
