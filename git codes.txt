@@ -1,0 +1,12 @@
+git init------------ inisializeing git-------------
+
+
+
+
+
+
+
+---------------------------connect with github repository-------------------
+git remote add origin https://github.com/MadhushaPrasad/testingGit.git  
+
+git pull --------------how to get globle edit in to local--------
