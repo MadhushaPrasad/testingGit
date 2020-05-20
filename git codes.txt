@@ -12,3 +12,18 @@ step 5 :git remote add origin https://github.com/MadhushaPrasad/testingGit.git
 step 6 :git push -u origin master --------------- send to gobale acc-------- 
 
 git pull --------------how to get globle edit in to local--------
+
+
+
+git checkout -b ---------- Switch branches or restore working tree files (git checkout -b iss53
+									  Switched to a new branch "iss53")
+
+git branch -d hotfix ------------Deleted branch hotfix (3a0874c).
+
+git pull origin madusha-android-dev ------ pull another branch
+
+git push origin madusha-android-dev ------- push to another branch
+
+refence :- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+
