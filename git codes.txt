@@ -24,6 +24,8 @@ git pull origin madusha-android-dev ------ pull another branch
 
 git push origin madusha-android-dev ------- push to another branch
 
+clone :- https://git-scm.com/search/results?search=clone
+
 refence :- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 
