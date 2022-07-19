@@ -45,3 +45,8 @@ reference: https://madhusha.medium.com/git-commit-resetting-checking-out-reverti
 
 ### Source Repository Migration from GitLab to GitHub
 reference: https://medium.com/@chamodshehanka/source-repository-migration-from-gitlab-to-github-37075befb7ec
+
+
+### Markdown Cheat Sheet
+### A quick reference to the Markdown syntax
+reference: https://www.markdownguide.org/cheat-sheet/
