@@ -1,3 +1,6 @@
+
+### Git basic codes
+
 step 1 :git init------------ inisializeing git-------------
 step 2 :git add .--------------add new create or edit-----
 
@@ -26,6 +29,13 @@ git push origin madusha-android-dev ------- push to another branch
 
 clone :- https://git-scm.com/search/results?search=clone
 
-refence :- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+reference :- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
+==================================================================================================================================================================
+### How to rebase branches in github
+reference: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-rebase-GitHub-repos
+
+==================================================================================================================================================================
+### Git Commit Resetting, Checking Out & Reverting.
+reference: https://madhusha.medium.com/git-commit-resetting-checking-out-reverting-87d73f277824
 
