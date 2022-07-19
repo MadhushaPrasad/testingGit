@@ -31,11 +31,13 @@ clone :- https://git-scm.com/search/results?search=clone
 
 reference :- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
-==================================================================================================================================================================
 ### How to rebase branches in github
 reference: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-rebase-GitHub-repos
 
-==================================================================================================================================================================
 ### Git Commit Resetting, Checking Out & Reverting.
 reference: https://madhusha.medium.com/git-commit-resetting-checking-out-reverting-87d73f277824
+
+### Markdown Cheat Sheet
+### A quick reference to the Markdown syntax
+reference: https://www.markdownguide.org/cheat-sheet/
 
